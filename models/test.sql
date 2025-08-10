@@ -1,0 +1,1 @@
+select * from FLOWERS.FLOWER_DETAILS
